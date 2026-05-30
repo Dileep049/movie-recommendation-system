@@ -1,0 +1,3 @@
+speechframework
+speech_recognition
+pyttsx3
