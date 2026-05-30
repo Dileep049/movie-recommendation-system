@@ -1,9 +1,9 @@
 import numpy as np
 import streamlit as st
 import pandas as pd
-import speech_recognition as sr
+#import speech_recognition as sr
 import sqlite3
-import pyttsx3
+#import pyttsx3
 import pickle
 import hashlib
 import os
